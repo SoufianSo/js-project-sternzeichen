@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #d4ca0a;
+}
+#horoscope-container {
+  background-color: #ede1e1;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 600px;
+  box-shadow: 0px 0px 10px rgba(11, 101, 219, 0.2);
+}
+select {
+  font-size: 18px;
+  padding: 10px;
+}
+img {
+  max-width: 100%;
+}
